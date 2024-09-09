@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|c:\\users\\aluno\\downloads\\testepokedex (4)\\testepokedex\\testepokedex\\formtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|solutionrelative:testepokedex\\formtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|c:\\users\\aluno\\downloads\\testepokedex (4)\\testepokedex\\testepokedex\\formdescricaopokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|solutionrelative:testepokedex\\formdescricaopokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|c:\\users\\aluno\\downloads\\testepokedex (4)\\testepokedex\\testepokedex\\formalterar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|solutionrelative:testepokedex\\formalterar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|c:\\users\\aluno\\downloads\\testepokedex (4)\\testepokedex\\testepokedex\\formpesquisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|solutionrelative:testepokedex\\formpesquisa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\testepokedex\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|solutionrelative:testepokedex\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\testepokedex\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54145C12-CB49-42C8-B7B5-D07D7CEDFC4D}|TestePokedex\\TestePokedex.csproj|solutionrelative:testepokedex\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLogin.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormLogin.cs",
+              "RelativeDocumentMoniker": "TestePokedex\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormLogin.cs [Projeto]",
+              "RelativeToolTip": "TestePokedex\\FormLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T00:40:28.813Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "TestePokedex\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormCadastro.cs [Projeto]",
+              "RelativeToolTip": "TestePokedex\\FormCadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T00:40:28.691Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPesquisa.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormPesquisa.cs",
+              "RelativeDocumentMoniker": "TestePokedex\\FormPesquisa.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormPesquisa.cs [Projeto]",
+              "RelativeToolTip": "TestePokedex\\FormPesquisa.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:11:40.556Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDescricaoPokemon.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormDescricaoPokemon.cs",
+              "RelativeDocumentMoniker": "TestePokedex\\FormDescricaoPokemon.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormDescricaoPokemon.cs [Projeto]",
+              "RelativeToolTip": "TestePokedex\\FormDescricaoPokemon.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T00:40:28.809Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTime.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormTime.cs",
+              "RelativeDocumentMoniker": "TestePokedex\\FormTime.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormTime.cs [Projeto]",
+              "RelativeToolTip": "TestePokedex\\FormTime.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:52:43.602Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAlterar.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormAlterar.cs",
+              "RelativeDocumentMoniker": "TestePokedex\\FormAlterar.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\TestePokedex (4)\\TestePokedex\\TestePokedex\\FormAlterar.cs [Projeto]",
+              "RelativeToolTip": "TestePokedex\\FormAlterar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:58:55.338Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
