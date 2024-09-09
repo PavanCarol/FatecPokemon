@@ -11,15 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TestePokedex")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Http")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a34af32d203bdf7ac4d68a13c0df50c7f539581")]
-[assembly: System.Reflection.AssemblyProductAttribute("TestePokedex")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TestePokedex")]
+[assembly: System.Reflection.AssemblyProductAttribute("Http")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Http")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
